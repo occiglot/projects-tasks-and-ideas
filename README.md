@@ -12,10 +12,16 @@ Languages done
 
 In progress 
 - [ ] Dutch
+- [ ] Portugese
+- [ ] Polish
+- [ ] Slovak
+- [ ] Czech
 
 Planning 
 - [ ] Albanian
 - [ ] Greek
+- [ ] Ukranian
+- [ ] Croatian
 
 ## Perplexity Evaluation on Unseen Content
 
@@ -29,3 +35,6 @@ In progress
 
 - Tokenizer extension
 - continued pretraining hyperparameter 
+- Model merging vs. continual pre-training
+- Multilingual Mixtures (w/ dedicated experts)
+- 
